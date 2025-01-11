@@ -13,8 +13,8 @@ public class Main {
 
 		System.out.println("Idade: " + idade);
 		System.out.println("Ano: " + ano);
-		System.out.println("Populacao da Cidade: " + populacaoCidade);
-		System.out.println("Populacao do Mundial: " + populacaoMundial);
+		System.out.println("População da Cidade: " + populacaoCidade);
+		System.out.println("População do Mundial: " + populacaoMundial);
 		System.out.println("Altura: " + altura);
 		System.out.println("Salario: "+ salario);
 		System.out.println("Estudante? " + estudante);
