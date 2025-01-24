@@ -5,3 +5,5 @@ public class FolhaDePagamento {
 		Funcionario funcionario = new Funcionario("Emerson", 6200.00);
 	}
 }
+
+
