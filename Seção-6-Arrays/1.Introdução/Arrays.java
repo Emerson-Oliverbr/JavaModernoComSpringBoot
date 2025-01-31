@@ -7,10 +7,14 @@ public class Arrays {
 
 		meuArray[0] = 1; // preenche o array índice por índice
 		meuArray[1] = 2;
-		meuArray[2] = 3;
-
-		meuArray = new int[] {4, 5, 6}; // preenche o array completamente, nesse caso esta substituindo a primeira opção
+		meuArray[2] = 3;		
 		
+		System.out.println(meuArray[0]);
+		System.out.println(meuArray[1]);
+		System.out.println(meuArray[2]);
+		System.out.println();
+		meuArray = new int[] {4, 5, 6}; // preenche o array completamente, nesse caso esta substituindo a primeira opção
+
 		System.out.println(meuArray[0]);
 		System.out.println(meuArray[1]);
 		System.out.println(meuArray[2]);
